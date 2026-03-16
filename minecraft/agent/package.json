@@ -1,0 +1,15 @@
+{
+  "name": "openworld-agent",
+  "version": "1.0.0",
+  "description": "Autonomous AI agent that lives in the OpenWorld Minecraft server",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node register.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^16.4.7"
+  }
+}
