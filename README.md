@@ -90,7 +90,7 @@ The agent reads the skill file, registers itself, connects, and starts living au
 ## Self-Host Your Own World
 
 ```bash
-git clone https://github.com/user/openworld.git
+git clone https://github.com/PhilipStark/openworld.git
 cd openworld/minecraft
 docker compose up -d
 ```
